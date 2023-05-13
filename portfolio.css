@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+img{
+    border: 5px dotted brown;
+    height: 200px;
+    width: 300px;
+}
+h1{
+color: midnightblue;
+}
+a{
+    color: rgb(0, 0, 0);
+    background-color: papayawhip;
+    border: 3px solid rgb(224, 58, 58);
+    padding: 5px;
+    border-radius: 7px;
+    text-decoration: none;
+
+    position:relative;
+    width: 200px;
+    height: 40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    cursor: pointer
+    ;
+}
+.min{
+    margin-right: 150px;
+}
+h1{
+    background-image: linear-gradient(red, gold, green, blue);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
