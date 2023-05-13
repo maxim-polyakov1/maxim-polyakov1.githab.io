@@ -1,0 +1,114 @@
+body {
+    font-family: sans-serif;
+}
+
+#logo{
+    background-color: white;
+    border: 7px;
+    border-radius: 7px;
+    padding: 5px;
+    margin: 5px;
+
+}
+b{
+    color: black;
+    font-weight: 900;
+    font-size: 20px;
+}
+header{
+background-color:lightskyblue;
+}
+h1{
+   border: 3px solid black;
+   border-radius: 30px;
+   padding: 10px;
+   margin: 10px;
+   text-align: center;
+   color: blueviolet;
+   font-size: 30px;
+   font-weight: 900;
+}
+footer{
+    background-color: orange ;
+    padding: 20px;
+    border-radius: 10px;
+}
+footer p {
+    background-color: white;
+    padding: 10px;
+}
+nav{
+     border:3px solid gray;
+     border-radius: 20px;
+     padding: 30px;
+     margin: 20px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     background-color: thistle;
+}
+.cook{
+    background-color: blue;
+    color: white;
+    border: 7px;
+    padding: 15px;
+    border-radius: 20px;
+}
+.color{
+    background-color: blue;
+    color: white;
+    border: 7px;
+    padding: 15px;
+    border-radius: 20px;    
+}
+.blue{
+     background-color: blue;
+    color: white;
+    border: 7px;
+    padding: 15px;
+    border-radius: 20px;
+}
+.black{
+     background-color: blue;
+    color: white;
+    border: 7px;
+    padding: 15px;
+    border-radius: 20px;
+}
+.face{
+    background-color: coral;
+    border-radius: 11px;
+    padding: 10px;
+    color: white;
+}
+.table{
+    border: 2px solid turquoise;
+    border-radius: 15px;
+}
+.yuo{
+    color: darkblue;
+    font-weight: 900;
+    font-size: 30px;
+}
+.know{
+    color: darkblue;
+    font-weight: 900;
+    font-size: 30px;
+}
+.class{
+    color: darkblue;
+    font-weight: 900;
+    font-size: 30px;
+}
+.yes{
+    border: 3px solid darkblue;
+    padding: 10px;
+    font-size: 20px;
+}
+.eat{
+    border: 3px solid darkblue;
+    padding: 2px;
+    font-size: 17px;
+    margin: 7px;
+    color: white;
+}
