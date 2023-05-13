@@ -1,0 +1,100 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.button {
+    background-color: #36bbce;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 15;
+    margin-bottom: 15;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    display: flex;
+    margin: 0px;
+}
+
+article {
+    background-color: white;
+    padding:15 ;
+    width: 400px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.article-but {
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+
+}
+
+footer {
+    background-color:  rgb(85, 85, 247);
+    display: flex;
+    padding:15 ;
+}
+
+footer a {
+    margin-right:15 ;
+}
+
+footer p {
+    font-size: 24px;
+}
+.hh{
+    margin-top:40px ;
+    margin-bottom: 35px;
+}
+.red{
+    background-color: #ff8165;
+}
+.none{
+    background-color: black;
+}
+.eat{
+    background-color:#9c73f2 ;
+}
+.title{
+    background-color: #7d8b29;
+}
