@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+}
+h1{
+ background-color:greenyellow;  
+ color: black;
+}
+body{
+    background-color:black;
+}
+a{
+ color: tomato;
+}
+div{
+  
+}
+.i{
+ background-color: rgb(146, 185, 185);
+ color: blue;
+}
+.u{
+background-color: rgb(146, 185, 185);
+color:blue;
+}
+.y{
+background-color: rgb(146, 185, 185);
+color:blue;
+}
+.t{
+background-color: rgb(146, 185, 185);
+color:blue;
+}
+.r{
+background-color: rgb(146, 185, 185);
+color:blue;
+}
+.e{
+color:blue;
+background-color: rgb(146, 185, 185);
+}
