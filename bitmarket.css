@@ -56,8 +56,13 @@ article {
     background-color: white;
     padding:15 ;
     width: 400px;
-    margin-right: 150spx;
+    margin-right: 150px;
     margin-bottom: 20px;
+    display:flex;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-content: center;
+    
 }
 
 .article-but {
